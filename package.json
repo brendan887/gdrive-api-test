@@ -1,0 +1,23 @@
+{
+  "name": "gdrive-api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brendan887/gdrive-api-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendan887/gdrive-api-test/issues"
+  },
+  "homepage": "https://github.com/brendan887/gdrive-api-test#readme",
+  "dependencies": {
+    "googleapis": "^107.0.0"
+  }
+}
